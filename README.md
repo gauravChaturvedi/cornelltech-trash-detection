@@ -34,8 +34,12 @@
 	Otherwise, use the following - Install [Tensorflow](https://www.tensorflow.org/install/)
 
 	If Tensorflow is running correctly, then clone this repo
+	
+	Install opencv for python
+	
+	pip install opencv-python
 
-	and finally:
+	and then finally:
 
 	python classify.py
 ```
